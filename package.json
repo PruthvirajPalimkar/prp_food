@@ -1,7 +1,7 @@
 {
+  "homepage": "https://pruthvirajpalimkar.github.io/prpfood",
   "name": "namaste-react",
   "version": "1.0.0",
-  "homepage": "https://pruthvirajpalimkar.github.io/prpfood",
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html",
