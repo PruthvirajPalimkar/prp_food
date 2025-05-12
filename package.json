@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html",
-    "test": "jest",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "build": "parcel build ./src/index.html",
+    "test": "jest"
   },
   "author": "pruthviraj",
   "license": "ISC",
